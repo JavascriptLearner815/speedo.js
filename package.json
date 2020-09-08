@@ -1,0 +1,24 @@
+{
+  "name": "speedo.js",
+  "version": "1.0.0",
+  "description": "This is my own npm package, and the first one I will publish.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Hello World\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavascriptLearner815/speedo.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Dean Summer <deanlovesmargie@gmail.com> (https://JavascriptLearner815.github.io/SpeedoThreeSixty)",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/JavascriptLearner815/speedo.js/issues"
+  },
+  "homepage": "https://github.com/JavascriptLearner815/speedo.js#readme",
+  "dependencies": {}
+}
