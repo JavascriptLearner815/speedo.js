@@ -39,7 +39,7 @@ module.exports = {
             } else if (this.value) {
                 this.prompt = prompt(null, this.value);
             } else {
-                this.prompt = prompt(null);
+                this.prompt = prompt();
             }
         }
     }
