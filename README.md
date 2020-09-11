@@ -1,5 +1,5 @@
 # speedo.js
-This is my own package. It has classes you can easily use to their advantage.
+This is my own npm package. It has classes you can easily use to their advantage.
 ## Installation
 In order to use this package, you need to install it via `npm install speedo.js`. 
 ## Require the Object
